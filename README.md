@@ -1,4 +1,4 @@
-# Nuxt Content Starter
+# News Blog
 This is a template for a blog using Nuxt.js and Netlify CMS.
 
 ![](/readme/cover.png)

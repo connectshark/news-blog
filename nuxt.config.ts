@@ -1,4 +1,4 @@
-const SITE_NAME = 'Nuxt Content Starter'
+const SITE_NAME = 'NEWS | 小資族FIRE攻略'
 
 export default defineNuxtConfig({
   modules: [
@@ -10,12 +10,12 @@ export default defineNuxtConfig({
     head: {
       title: SITE_NAME,
       meta: [
-        { name: 'description' , content: 'Nuxt Content for starter'},
+        { name: 'description' , content: 'SITE_NAME'},
         { hid: 'og-type', property: 'og:type', content: 'website' },
         { hid: 'og-title', property: 'og:title', content: SITE_NAME },
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/nosegates.jpg' },
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
         { rel: 'stylesheet', href: 'https://unpkg.com/boxicons@latest/css/boxicons.min.css' },
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Ubuntu:wght@400;500;700&display=swap' }
       ],

@@ -1,12 +1,12 @@
 <template>
 <NuxtLayout name="index">
   <template v-slot:hero>
-    <h1 class="text-3xl mb-8">Welcome! {{ config.site.title }}</h1>
+    <h1 class="text-3xl font-bold mb-8">{{ config.site.title }}</h1>
     <p>最快文章更新</p>
   </template>
   <ul class="grid lg:grid-cols-2 gap-4">
     <li v-for="article in contentQuery" :key="article._id">
-      <NuxtLink class="block p-5 bg-white hover:-translate-y-2" :to="article._path">
+      <NuxtLink class="block shadow-lgs p-5 bg-white hover:-translate-y-2" :to="article._path">
         <figure v-if="article.cover">
           <img class=" w-full h-44 object-contain" :src="article.cover" alt="cover">
         </figure>
@@ -26,7 +26,9 @@
 
 <script setup>
 const config = useAppConfig()
-const contentQuery = await queryContent().sort({ date: 1 }).only(['title', 'cover', 'description', '_path', '_id']).limit(6).find()
+const contentQuery = await queryContent().sort({ date: -1 })
+  .only(['title', 'cover', 'description', '_path', '_id'])
+  .find()
 useHead({
   title: config.site.title,
 })

@@ -1,19 +1,19 @@
 ---
-title: What is Discord
+title: 免責聲明
 date: 2023-04-26 10:00:00
 cover: /img/aboutdiscordcover.png
 description: About Discord
-tags:
-  - food
-  - play
 author: Chambers
+tags:
+  - about
 ---
-## H﻿ello Discord
 
-Hi everyone! Today I want to talk about Discord, a popular app that lets you chat with your friends and join online communities. Discord is more than just a messaging app. It's a place where you can create your own server, invite people who share your interests, and have fun together. 
+本部落格所有文章和資訊僅供參考和分享，並不構成任何專業建議或是意見。讀者使用本部落格提供的資訊時，應該自行進行評估和判斷，並承擔相關風險和責任。作者不承擔任何因讀者使用本部落格資訊而產生的損失、損害或是責任。
 
+本部落格提供的資訊可能會包含錯誤、遺漏或是不準確的內容，作者不保證資訊的正確性、完整性、即時性、適用性和可靠性。讀者使用本部落格提供的資訊時，應該自行進行核實和確認，並諮詢專業人士的意見和建議。
 
+本部落格可能會包含第三方網站或是資源的連結或是引用，作者不擔保這些第三方網站或是資源的安全性、合法性、可用性和可靠性。讀者進行任何與第三方網站或是資源相關的活動時，應該自行承擔風險和責任。
 
-## Y﻿ES Discord
+作者保留隨時修改和更新本部落格內容和免責聲明的權利，並不另行通知。讀者應該定期查看本部落格的內容和免責聲明，以確保了解最新資訊和政策。
 
-You can also join existing servers that cover a wide range of topics, from gaming to music to art. Discord is easy to use and customize. You can send text, voice, and video messages, as well as emojis, stickers, and gifs. You can also create channels, roles, and bots to organize your server and make it more interactive. Discord is free to download and use, and it works on both desktop and mobile devices. If you want to get more features, you can upgrade to Discord Nitro, which gives you perks like animated avatars, custom emojis, and server boosts. Discord is a great way to connect with people who share your passions and hobbies. If you haven't tried it yet, I highly recommend you to check it out. You won't regret it!
+最後，本部落格的內容和免責聲明受到中華民國法律的約束。任何因使用本部落格而產生的爭議，應依照中華民國法律進行處理和解決。

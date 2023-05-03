@@ -18,10 +18,11 @@
 </template>
 
 <script setup>
+const app = useAppConfig()
 const { page } = useContent()
 useHead({
   title: page.title,
   description: page.description,
-  titleTemplate: title => `${title} | Nuxt Content Starter`,
+  titleTemplate: title => `${title} | ${app.site.title}`,
 })
 </script>

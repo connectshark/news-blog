@@ -1,13 +1,13 @@
 {
-  "name": "nuxt-content-starter",
-  "description": "a simple Nuxt content template",
+  "name": "news-blog",
+  "description": "a news blog",
   "author": {
     "name": "Chambers",
     "url": "https://github.com/connectshark"
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/connectshark/nuxt-content-starter"
+    "url": "https://github.com/connectshark/news-blog"
   },
   "scripts": {
     "dev": "nuxt dev",
